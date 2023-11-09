@@ -8,7 +8,7 @@ body{
 
 
 /* Small (Aplicacao para celulares, 576px and up)*/
-@media (min-width: 576px) { 
+/*@media (min-width: 576px) { */
 
     .Principal{
     
@@ -75,7 +75,7 @@ body{
         border-radius: 20px;
         margin-bottom: 20px;
     }
-}
+/*}*/
 
 
 
