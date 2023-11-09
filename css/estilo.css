@@ -12,15 +12,15 @@ body{
 
     .Principal{
     
-        width: 412px;
-        height: 914px;
+        width: 360px;
+        height: 740px;
         margin: auto;
         background-color: gray;
     
     }
     .Navegacao{
     
-        width: 400px;
+        width: 360px;
         height: 60px;
         display: flex;
         align-items: center;
@@ -29,7 +29,7 @@ body{
         color: black;
         font-family: 'Cutive Mono', monospace;
         margin-left: 30px;
-        font-size: 25px;
+        font-size: 20px;
         text-decoration: none;
     }
     .botao:hover{
@@ -39,17 +39,18 @@ body{
     }
     .texto001{
         width: 70%;
-        height: 250px;
+        height: 200px;
         margin: auto;
         display: flex;
         align-items: center;
         justify-content: center;
         font-family: 'Cutive Mono', monospace;
         text-align: center;
+        font-size: 30px;
     }
     .area001{
         width: 90%;
-        height: 500px;
+        height: 460px;
         background-color: rgb(70, 69, 69);
         margin: auto;
         border-radius: 20px;
@@ -59,7 +60,7 @@ body{
     }
     .texto002{
         width: 70%;
-        height: 260px;
+        height: 200px;
         margin: auto;
         margin-top: 20px;
         color: white;
